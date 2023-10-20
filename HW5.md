@@ -7,6 +7,7 @@
 
 # Part 2
 my card using @open-wc in vercel: https://my-card-7h1riqf0b-nyuzui.vercel.app
+
 repo to my card: https://github.com/nyuzui/my-card.git
 
 ## 5 similarities between the open-wc repo structure and your react / vue / angular structures?
